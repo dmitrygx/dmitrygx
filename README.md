@@ -8,4 +8,6 @@
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/dmitrygx"><img width=550 src="https://github-profile-trophy.vercel.app/?username=dmitrygx&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
+
+<h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="mailto:dmitryg1709@gmail.com">![dmitryg1709@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>

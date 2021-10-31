@@ -12,3 +12,4 @@
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 
 <a href="mailto:dmitryg1709@gmail.com">![dmitryg1709@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://github.com/dmitrygx"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>

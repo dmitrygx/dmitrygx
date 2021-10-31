@@ -5,4 +5,7 @@
 <a href="https://github.com/dmitrygx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrygx&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/htr-tech"><img width=550 src="https://github-profile-trophy.vercel.app/?username=htr-tech&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+
 <a href="mailto:dmitryg1709@gmail.com">![dmitryg1709@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>

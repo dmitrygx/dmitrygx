@@ -12,5 +12,5 @@
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 
 
-<a href="https://github.com/dmitrygx">![https://github.com/dmitrygx](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=github&logoColor=white&color=black)</a>
+<a href="https://github.com/dmitrygx">![https://github.com/dmitrygx](https://img.shields.io/badge/GitHub-D14836?style=for-the-badge&logo=github&logoColor=white&color=black)</a>
 <a href="mailto:dmitryg1709@gmail.com">![dmitryg1709@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>

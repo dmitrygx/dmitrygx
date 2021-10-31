@@ -5,4 +5,4 @@
 <a href="https://github.com/dmitrygx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrygx&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
-<a href="mailto:YourEmail@gmail.com">![dmitryg1709@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:dmitryg1709@gmail.com">![dmitryg1709@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>

@@ -1,17 +1,17 @@
 <!-- Github README -->
-//<p align="center"><a href="https://github.com/dmitrygx">
-//<img height="165" src="https://github-readme-stats.vercel.app/api?username=dmitrygx&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" />//</a>
-//&nbsp;&nbsp;&nbsp;
-//<a href="https://github.com/dmitrygx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrygx&layout=compact&theme=react&hide_border=true" />
-//</a></p>
+<p align="center"><a href="https://github.com/dmitrygx">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dmitrygx&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true"</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/dmitrygx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrygx&layout=compact&theme=react&hide_border=true" />
+</a></p>
 
-//<h3><b><i>🏆 Github Statistics :</i></b></h3>
-//<a href="https://github.com/dmitrygx"><img width=550 src="https://github-profile-trophy.vercel.app/?username=dmitrygx&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
-
-
-//<h3><b><i>📡 Get in Touch :</i></b></h3>
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/dmitrygx"><img width=550 src="https://github-profile-trophy.vercel.app/?username=dmitrygx&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 
-//<a href="https://github.com/dmitrygx">![https://github.com/dmitrygx](https://img.shields.io/badge/GitHub-D14836?style=for-the-badge&logo=github&logoColor=white&color=black)</a>
-//<a href="mailto:dmitryg1709@gmail.com">![dmitryg1709@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-//<a href="https://t.me/dmitrygx">![https://t.me/dmitrygx](https://img.shields.io/badge/Telegram-D14836?style=for-the-badge&logo=telegram&logoColor=white&color=blue)</a>
+<h3><b><i>📡 Get in Touch :</i></b></h3>
+
+
+<a href="https://github.com/dmitrygx">![https://github.com/dmitrygx](https://img.shields.io/badge/GitHub-D14836?style=for-the-badge&logo=github&logoColor=white&color=black)</a>
+<a href="mailto:dmitryg1709@gmail.com">![dmitryg1709@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://t.me/dmitrygx">![https://t.me/dmitrygx](https://img.shields.io/badge/Telegram-D14836?style=for-the-badge&logo=telegram&logoColor=white&color=blue)</a>
